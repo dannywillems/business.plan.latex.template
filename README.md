@@ -1,2 +1,3 @@
-# business.plan.latex.template
-Template de Business Plan en LaTeX
+# Business Plan Template en LaTeX
+
+Template de Business Plan en LaTeX.
